@@ -11,7 +11,7 @@
  * CONFIGURACIÓN OBLIGATORIA
  * -----------------------------------------------------------------
  */
-const GOOGLE_SCRIPT_URL = "https://estenoeszeins-hub.github.io/Tecno_Ruiz/GOOGLE_SCRIPT_URL_DEBES_PEGARLA_AQUI"; // <-- ¡¡REVISA ESTA LÍNEA!!
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwb_GlmAw5RabmUCsq4bnn-daIbM7MNZvk45SmTUZTmleZsZPsEtUPqY39CTTq40ahu/exec"; // <-- ¡¡REVISA ESTA LÍNEA!!
 const TEACHER_PASSWORD = "Docente2025_Uarm";
 
 // ¡NUEVO! Se genera un ID único para esta "sesión"
@@ -297,3 +297,4 @@ function logToSheet(dataType, value, nextStep) {
 // --- 8. INICIAR EL CHAT ---
 // ¡YA NO ESPERA! Se ejecuta al cargar el script.
 resetChat();
+
