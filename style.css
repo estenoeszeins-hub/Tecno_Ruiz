@@ -1,5 +1,5 @@
 /* --- Fuentes y Configuración Global --- */
-body {
+.body {
     overflow: auto;
 }
 
@@ -271,3 +271,4 @@ body {
     display: none !important;
 
 }
+
